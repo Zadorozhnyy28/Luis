@@ -120,5 +120,43 @@ hr {
     height: 4px;
     width: 60px; }
 
+/*Third section*/
+
+.services hr, .MySkills hr, .Portfolio hr, .management hr {
+    margin: auto;
+    border: none;
+    background-color: #7a7a7a;
+    color: #7a7a7a;
+    height: 4px;
+    width: 60px;
+    margin-top: 119px; }
+
+.services {
+    background-color: #f6f6f6;
+    padding-bottom: 114px; }
+
+
+
+.services h1, .MySkills h1, .Portfolio h1, .management h1 {
+    text-align: center;
+    color: #6f6f6f;
+    padding-bottom: 60px;
+    font-family: 'Asap', sans-serif;
+    font-weight: 700; }
+
+.list_of_services {
+    margin: auto;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Asap', sans-serif;
+    font-weight: 500;
+    color: #4d4d4d; }
+
+
+.second_list_of_services {
+    margin-top: 89px; }
+
+
+/*fourth_section*/
 
 
