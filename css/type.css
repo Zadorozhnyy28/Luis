@@ -122,7 +122,7 @@ hr {
 
 /*Third section*/
 
-.services hr, .MySkills hr, .Portfolio hr, .management hr {
+.services hr, .my_skills hr, .portfolio hr, .management hr {
     margin: auto;
     border: none;
     background-color: #7a7a7a;
@@ -137,7 +137,7 @@ hr {
 
 
 
-.services h1, .MySkills h1, .Portfolio h1, .management h1 {
+.services h1, .my_skills h1, .portfolio h1, .management h1 {
     text-align: center;
     color: #6f6f6f;
     padding-bottom: 60px;
@@ -160,3 +160,32 @@ hr {
 /*fourth_section*/
 
 
+.my_skills img {
+    width: 100%;
+    margin-top: 62px;
+    padding-bottom: 128px; }
+
+.portfolio {
+    background-color: #f6f6f6; }
+
+.load_more_portfolio {
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    background-color: white;
+    height: 50px;
+    width: 190px;
+    margin-bottom: 124px; }
+
+.load_more_portfolio p {
+    padding-top: 15px;
+    font-size: 16px;
+    color: #000000; }
+
+.load_more_portfolio a {
+    text-decoration: none;
+    font-family: 'Asap', sans-serif;
+    font-weight: 500; }
+
+.second_part_of_portfolio {
+    margin-top: 30px; }
